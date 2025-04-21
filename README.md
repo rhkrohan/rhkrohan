@@ -27,23 +27,5 @@
 ## 🤝 Support Me
 If you find my projects useful, consider giving them a ⭐️ on GitHub.
 
-## 🧑‍💻 Projects
-
-### [LinguaSign AI: American Sign Language Recognition System](https://github.com/rhkrohan/LinguaSignAI)
-- **Description**: A deep learning-based ASL recognition system using custom ANN models and MediaPipe for hand landmark extraction. Achieved 97% classification accuracy.
-- **Tech Stack**: TensorFlow, MediaPipe, GPT-4, ElevenLabs TTS, Python
-
-### [Culinary Connect: Food Share Network](https://github.com/fakhar35/Culinary-Connect/tree/main)
-- **Description**: A platform to facilitate food donations and reduce food waste. Integrated Google Maps API for real-time location tracking.
-- **Tech Stack**: React JS, PostgreSQL, Google Maps API, AWS, Python
-
-### [NeuroVision: Brain Tumor Detection](https://github.com/rhkrohan/brain_tumor_detection)
-- **Description**: A machine learning model for brain tumor detection using MRI scans, achieving 97.95% training accuracy and 91.08% validation accuracy.
-- **Tech Stack**: TensorFlow, Python, NumPy, Pandas
-
-### [Credit Card Fraud Detection](https://github.com/rhkrohan/credit-card-fraud-detection-analysis)
-- **Description**: A neural network model for fraud detection with a focus on recall optimization, achieving 93% fraud detection accuracy.
-- **Tech Stack**: TensorFlow, Keras, Python, Scikit-Learn
-
 ## 🌱 Current Focus
 I’m currently focused on scaling my startup Aura, learning more about distributed systems, and improving the user experience of my applications. I’m also exploring AI applications in accessibility technology and healthcare.
