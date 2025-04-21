@@ -26,6 +26,3 @@
 
 ## 🤝 Support Me
 If you find my projects useful, consider giving them a ⭐️ on GitHub.
-
-## 🌱 Current Focus
-I’m currently focused on scaling my startup Aura, learning more about distributed systems, and improving the user experience of my applications. I’m also exploring AI applications in accessibility technology and healthcare.
